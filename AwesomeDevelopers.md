@@ -49,3 +49,4 @@
 - [Marco Ventura](https://github.com/tdotlanders)
 - [André Alves - Vue|React Developer](https://github.com/Pinotas/)
 - [Marina Sampaio - Full Stack Developer](https://github.com/masampaiosp)
+- [Aman - Full Stack Developer](https://github.com/masampaiosp)
